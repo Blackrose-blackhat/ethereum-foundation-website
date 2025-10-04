@@ -12,7 +12,7 @@ const HomePage = () => {
   return (
     <ContentBlock isHomePage>
       <div id="content-body" className="disable--selection">
-        <h1>Welcome to the Infinite Garden</h1>
+        <h2>Welcome to the Infinite Garden</h2>
         <Link href="/infinitegarden" id="next-navigation">
           <object
             data="/assets/double-spirale.svg"
